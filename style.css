@@ -3,8 +3,8 @@ a {
     bottom:35%;
     left: 2%; */
     position: fixed;
-    bottom: 200px;
-    left: 30px;
+    top: 30px;
+    right: 30px;
     font-family: "Arial", sans-serif;
     font-size: 11px;
     color: gray;
